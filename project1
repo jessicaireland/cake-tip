@@ -1,0 +1,3 @@
+git config --global user.name "jessicaireland"
+git config --global user.email rollwithitbakery@hotmail.com
+git config --global pull.rebase true
